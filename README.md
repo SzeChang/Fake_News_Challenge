@@ -16,8 +16,10 @@ Datasets obtained from [FakeNewsChallenge.org](https://fakenewschallenge.org/).
 This is what you should see if you have followed the steps in `unReal.ipynb` correctly:
 ![home page](https://github.com/SzeChang/Fake_News_Challenge/blob/1bb7166aca128592d1f29f295dbc9f01dd4ebc4a/GUI%20demo%20pics/home_page.png)
 
+
 Below is an example of a successful stance detection (expected: `discuss`, output: `discuss`):
-![test case good](https://github.com/SzeChang/Fake_News_Challenge/blob/1bb7166aca128592d1f29f295dbc9f01dd4ebc4a/GUI%20demo%20pics/test_case_good.gif)
+![test case bad](https://github.com/SzeChang/Fake_News_Challenge/blob/1bb7166aca128592d1f29f295dbc9f01dd4ebc4a/GUI%20demo%20pics/test_case_bad.gif)
+
 
 On the other hand, this is a failed stance detection (expected: `disagree`, output: `agree`):
-![test case bad](https://github.com/SzeChang/Fake_News_Challenge/blob/1bb7166aca128592d1f29f295dbc9f01dd4ebc4a/GUI%20demo%20pics/test_case_bad.gif)
+![test case good](https://github.com/SzeChang/Fake_News_Challenge/blob/1bb7166aca128592d1f29f295dbc9f01dd4ebc4a/GUI%20demo%20pics/test_case_good.gif)
