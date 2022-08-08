@@ -21,5 +21,5 @@ Below is an example of a successful stance detection (expected: `discuss`, outpu
 ![test case bad](https://github.com/SzeChang/Fake_News_Challenge/blob/1bb7166aca128592d1f29f295dbc9f01dd4ebc4a/GUI%20demo%20pics/test_case_bad.gif)
 
 
-On the other hand, this is a failed stance detection (expected: `disagree`, output: `agree`):
+On the other hand, this is a failed stance detection (expected: `unrelated`, output: `agree`):
 ![test case good](https://github.com/SzeChang/Fake_News_Challenge/blob/1bb7166aca128592d1f29f295dbc9f01dd4ebc4a/GUI%20demo%20pics/test_case_good.gif)
